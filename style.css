@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(253, 255, 127);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 64px;
+    color: black;
+    text-align: center;
+}
+.homelist {
+    font-size: 36px;
+    text-align: center;
+    list-style: none;
+}
+
+.homelistel {
+    line-height: 200%;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.imgdiv {
+    text-align: center;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+p {
+    font-size: larger;
+}
+
+li {
+    font-size: large;
+}
